@@ -33,17 +33,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-`Points` represent 2-dimetional points. All geometric shapes are vectors of `Points` internally.
+`Points` represent 2-dimensional points. All geometric shapes are vectors of `Points` internally.
 
-You can instantiate following geometric shapes:
-- poligonal chain
+You can instantiate the following geometric shapes:
+- polygonal chain
 - closed polygonal chain
 - polygon
 - triangle
 - trapezoid
 - regular polygon
 
-You can calculate perimeter and area of the shapes.
+You can calculate the perimeter and area of the shapes.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -53,7 +53,7 @@ You can calculate perimeter and area of the shapes.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To be able to calculate perimeter and area of geometric shapes, follow the simple steps below.
+To calculate the perimeter and area of geometric shapes, follow the simple steps below.
 
 ### Installation
 
