@@ -42,6 +42,7 @@ You can instantiate following geometric shapes:
 - triangle
 - trapezoid
 - regular polygon
+
 You can calculate perimeter and area of the shapes.
 
 
@@ -86,7 +87,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Maria Mozgunova - [Twitter - @MariaMozgunova](https://twitter.com/MariaMozgunova) - mariiamozgunova@gmail.com
 
-Project Link: [https://github.com/MariaMozgunova/uint1024_t](https://github.com/MariaMozgunova/uint1024_t)
+Project Link: [https://github.com/MariaMozgunova/geometric_shapes_area_perimeter](https://github.com/MariaMozgunova/geometric_shapes_area_perimeter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
